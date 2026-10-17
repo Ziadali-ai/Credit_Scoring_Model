@@ -86,5 +86,5 @@ jupyter notebook Credit_Score_Machine_Learning_Granular_EN.ipynb
 
 ## 👤 Author
 * **Developer:** Ziad Ali Fathy Mohamed
-* **Program:** CodeAlpha Machine Learning Internship
-* **Repository Name:** `CodeAlpha_CreditScoringModel`
+* **Program:**  Machine Learning Internship
+* **Repository Name:** `CreditScoringModel`
